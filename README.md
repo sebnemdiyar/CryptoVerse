@@ -17,7 +17,7 @@ Cryptoverse, kripto para dünyasına odaklanan duyarlı (responsive) ve modern b
 
 ## 📺 Ekran Kaydı
 
-![CryptoVerse](https://github.com/user-attachments/assets/2f7f90ec-979d-4d4f-ab5d-7b3342a30611)
+![CryptoVerse](https://github.com/user-attachments/assets/f185f452-9592-4a62-bcf6-bb9b2f3d8ad6)
 
 ## Contact
 
